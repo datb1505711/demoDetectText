@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724005071376",
+    "firebase_url": "https://ne-7f590.firebaseio.com",
+    "project_id": "ne-7f590",
+    "storage_bucket": "ne-7f590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724005071376:android:eea49636eb5ff8a315b895",
+        "android_client_info": {
+          "package_name": "com.example.love_moneyyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724005071376-dedmdd7p915mekfe042oss92ijrr864i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYpkYr6hjVvgCGEFQkSFUp3t39dhdX9xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724005071376-dedmdd7p915mekfe042oss92ijrr864i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
